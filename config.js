@@ -1,0 +1,15 @@
+const CONFIG = {
+    pageTitle: "Meow:)",
+    popupTitle: 'Hi Pookie 😙😊🙈❤',
+    description: `I hope you're having a beautiful day:)`,
+    introButton: 'Quick question.🥺 ',
+    title: 'Will you alwyays hold it while I pee?🥺',
+    yesBtn: 'Yes baby 🥺',
+    noBtn: 'No :3',
+    question: 'Yayyyyy \n Now tell me you love me 🙈',
+    sendBtn: 'Send',
+    reply: 'I love you :)',
+    messPop: 'I know, I know.',
+    messDesc: 'Baiiiiiiii',
+    btnAccept: '😙😊❤',
+}
