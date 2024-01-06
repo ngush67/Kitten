@@ -12,4 +12,5 @@ const CONFIG = {
     messPop: 'I know, I know.',
     messDesc: 'Baiiiiiiii',
     btnAccept: '😙😊❤',
+    redirect: 'https://ngush67.github.io/Kitten/',
 }
