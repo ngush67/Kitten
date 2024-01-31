@@ -1,5 +1,5 @@
 const CONFIG = {
-    pageTitle: "Meow:)",
+    pageTitle: "Ifly Maryann:)",
     popupTitle: 'Hi Pookie 😙😊🙈❤',
     description: `I hope you're having a beautiful day:)`,
     introButton: 'Quick question.🥺 ',
